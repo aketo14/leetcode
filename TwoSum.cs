@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-public class Solution {
+public partial class Solution {
     public int[] TwoSum(int[] nums, int target) {
         var hashMap = new Dictionary<int, int>();
         
