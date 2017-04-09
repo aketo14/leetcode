@@ -1,0 +1,8 @@
+- 35 can be quicker using binary search
+- make sure most optimal - 530
+
+- dynamic programming
+- binary search tree
+- binary tree
+
+- moore voting algorithm
