@@ -1,5 +1,7 @@
 - 35 can be quicker using binary search
 - make sure most optimal - 530
+- redo 557
+- redo 496 better big O
 
 - dynamic programming
 - binary search tree
